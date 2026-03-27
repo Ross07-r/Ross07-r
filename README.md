@@ -41,7 +41,7 @@ Atualmente estou focado em:
 
 ## 🔥 Projetos em destaque
 
-- 🚀 [Nome do Projeto]([link](https://github.com/Ross07-r/PDS-estudo-dirigido-Parte1)) – descrição breve  
+- 🚀 [Nome do Projeto](https://github.com/Ross07-r/PDS-estudo-dirigido-Parte1) – descrição breve  
 - 🚀 [Nome do Projeto](link) – descrição breve  
 - 🚀 [Nome do Projeto](link) – descrição breve  
 
