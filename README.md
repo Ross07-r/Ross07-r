@@ -1,8 +1,8 @@
-# 🚀 Olá, eu sou [Seu Nome]
+# Sou Ross Brunel Ngatala
 
-🎓 Estudante de [Curso]  
-💻 Interessado em: [áreas: IA, Web, Sistemas, etc.]  
-📍 Localização: [Cidade, País]  
+🎓 Estudante de Engenharia da Computação  
+💻 Interessado em HARWARDE | Dada & Algoritmos | Sensores Inteligentes | Sistemas Embarcados | IoT |IA|  
+📍 Localização: Campina Grande, Brasil / Gabão, Libreville 
 
 ---
 
@@ -11,8 +11,8 @@
 Sou apaixonado por tecnologia e estou sempre buscando aprender coisas novas.  
 Atualmente estou focado em:
 
-- 📌 [Tecnologia/tema atual]
-- 📌 [Outro tema]
+- 📌 [HARDWARE : Concepção e Desenvolvimento de sistemas eletrônicos inteligente.
+- 📌 [RELAÇÕES HUMANAS: Formação Inicial e Continuada (FIC) em Agente de Desenvolvimento Cooperativista.
 - 📌 [Outro tema]
 
 ---
@@ -20,14 +20,15 @@ Atualmente estou focado em:
 ## 🛠️ Tecnologias & Ferramentas
 
 ### 👨‍💻 Linguagens
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
+Python
+C
+c++
 
 ### ⚙️ Ferramentas
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
-![VSCode](https://img.shields.io/badge/VSCode-000?style=for-the-badge&logo=visualstudiocode)
+Git
+GitHub
+VSCode
+Thony
 
 ---
 
@@ -41,9 +42,9 @@ Atualmente estou focado em:
 
 ## 🔥 Projetos em destaque
 
-- 🚀 [Nome do Projeto](https://github.com/Ross07-r/PDS-estudo-dirigido-Parte1) – descrição breve  
-- 🚀 [Nome do Projeto](link) – descrição breve  
-- 🚀 [Nome do Projeto](link) – descrição breve  
+- 🚀 Convolução e Sistemas LTI: (https://github.com/Ross07-r/PDS-estudo-dirigido-Parte1) 
+- 🚀 Sistemas Dinâmicos, Modelagem e Aplicações: https://github.com/Ross07-r/-Estudo-dirigido-da-disciplina-de-Controle-e-Automa-o-I---Parte-1?authuser=0
+- 🚀 [](link) – descrição breve  
 
 ---
 
