@@ -1,4 +1,4 @@
-# Sou Ross Brunel Ngatala
+# Ross Brunel Ngatala
 
 🎓 Estudante de Engenharia da Computação  
 💻 Interessado em HARWARDE | Dada & Algoritmos | Sensores Inteligentes | Sistemas Embarcados | IoT |IA|  
@@ -20,8 +20,8 @@ Atualmente estou focado em:
 ## 🛠️ Tecnologias & Ferramentas
 
 ### 👨‍💻 Linguagens
-Python
-C
+Python / 
+C / 
 c++
 
 ### ⚙️ Ferramentas
