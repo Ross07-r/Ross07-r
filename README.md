@@ -13,7 +13,7 @@ Atualmente estou focado em:
 
 - 📌 [HARDWARE : Concepção e Desenvolvimento de sistemas eletrônicos inteligente.
 - 📌 [RELAÇÕES HUMANAS: Formação Inicial e Continuada (FIC) em Agente de Desenvolvimento Cooperativista.
-- 📌 [Outro tema]
+
 
 ---
 
@@ -25,9 +25,9 @@ C /
 C++
 
 ### ⚙️ Ferramentas
-Git
-GitHub
-VSCode
+Git / 
+GitHub / 
+VSCode / 
 Thony
 
 ---
@@ -44,14 +44,14 @@ Thony
 
 - 🚀 Convolução e Sistemas LTI: (https://github.com/Ross07-r/PDS-estudo-dirigido-Parte1) 
 - 🚀 Sistemas Dinâmicos, Modelagem e Aplicações: https://github.com/Ross07-r/-Estudo-dirigido-da-disciplina-de-Controle-e-Automa-o-I---Parte-1?authuser=0
-- 🚀 [](link) – descrição breve  
+   
 
 ---
 
 ## 🌐 Contato
 
-- 💼 LinkedIn: [link]  
-- 📧 Email: [email]  
+- 💼 LinkedIn: www.linkedin.com/in/ross-brunel-ngatala-15b126278  
+- 📧 Email: rossngatala@gmail.com  
 - 🌍 Portfólio: [link]  
 
 ---
