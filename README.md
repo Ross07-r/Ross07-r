@@ -22,7 +22,7 @@ Atualmente estou focado em:
 ### 👨‍💻 Linguagens
 Python / 
 C / 
-c++
+C++
 
 ### ⚙️ Ferramentas
 Git
